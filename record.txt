@@ -1,0 +1,7 @@
+monitor:监控器
+
+摘要：
+    Spring Boot Admin 可以对SpringBoot应用的各项指标进行监控，可以作为微服务架构中的监控中心来使用，本文将对其用法进行详细介绍
+Spring Boot Admin 简介：
+
+该服务为监控中心
